@@ -6,3 +6,5 @@ Input signal: 0.2VACp-p to 7.5VACp-p / Output Signal: to 20VACp-p to 75VACp-p (1
 DC-DC Converter: 5V in, 100V out: Q01-5 (https://www.digikey.com/en/products/detail/xp-power/Q01-5/5873601)
 
 Op Amp: OPA454AIDDA (https://www.digikey.com/en/products/detail/texas-instruments/OPA454AIDDA/1770310)
+
+Designed to fit the following project enclosure: B005T5A0W4 (https://www.amazon.com/BUD-Industries-CU-3283-Plastic-Utility/dp/B005T5A0W4)
